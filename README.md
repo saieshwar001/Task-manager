@@ -114,4 +114,3 @@ This is a personal project. Contributions are welcome via **pull requests** if y
 ## 📄 License
 
 This project is released under the **MIT License**.
-"<!-- Refresh status checks -->" 
