@@ -5,7 +5,7 @@ A full-stack Kanban board application inspired by Wekan, built with modern web t
 This is my personal project, showcasing **React, Node.js, Express, MongoDB**, and real-time updates.
 
 ---
-
+This project is modified and maintained by saieshwar001.
 ## 🚀 Features
 
 * Create multiple **boards**, **lists**, and **cards**
